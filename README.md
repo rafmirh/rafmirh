@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rafmirh
--  💻📡 I'm currently enrolled in a Data Science bachelor's program and I'm interested in developing professional skills in parallel with my studies.
+-  💻📡 I'm currently pursuing a bachelor's degree in Data Science and working as a digital developer, focusing on automating processes
 - 🌱 Interested in ML & AI models and their implementation
 
 - 📫 Reach me via DM
