@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rafmirh
--  💻📡 I'm currently pursuing a bachelor's degree in Data Science and working as a digital developer, focusing on automating processes
-- 🌱 Interested in ML & AI models and their implementation
+- 💻 Data Scientist dev in Insurtech
+- 📡 Interested in new AI models and solutions
 
 - 📫 Reach me via DM
 
